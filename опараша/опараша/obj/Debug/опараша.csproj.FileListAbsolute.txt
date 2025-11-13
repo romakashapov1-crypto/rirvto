@@ -1,0 +1,7 @@
+C:\Users\klg\source\repos\опараша\опараша\bin\Debug\опараша.exe.config
+C:\Users\klg\source\repos\опараша\опараша\bin\Debug\опараша.exe
+C:\Users\klg\source\repos\опараша\опараша\bin\Debug\опараша.pdb
+C:\Users\klg\source\repos\опараша\опараша\obj\Debug\опараша.csproj.AssemblyReference.cache
+C:\Users\klg\source\repos\опараша\опараша\obj\Debug\опараша.csproj.CoreCompileInputs.cache
+C:\Users\klg\source\repos\опараша\опараша\obj\Debug\опараша.exe
+C:\Users\klg\source\repos\опараша\опараша\obj\Debug\опараша.pdb
